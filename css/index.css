@@ -1,0 +1,10 @@
+.select__seasons {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 3%;
+}
+
+.block-allseasons {
+    min-width: 65px;
+    margin: 1%;
+}
